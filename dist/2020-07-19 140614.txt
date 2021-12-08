@@ -1,0 +1,11 @@
+
+W grze bierze udzia³ 2 graczy.
+Gracz 1. asd: 5 kart.
+Gracz 2. asasdf: 5 kart.
+
+Figura na stole: .............. 7
+Kolor na stole: ............... ?
+
+KOLEJ GRACZA asd:
+Figura na stole: .............. 7
+Kolor na stole: ............... ?

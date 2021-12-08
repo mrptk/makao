@@ -1,0 +1,630 @@
+
+W grze bierze udział 2 graczy.
+Gracz 1. Jusst: 5 kart.
+Gracz 2. Patrr: 5 kart.
+
+Figura na stole: .............. 5
+Kolor na stole: ............... ♣
+
+KOLEJ GRACZA Jusst:
+Figura na stole: .............. 5
+Kolor na stole: ............... ♣
+Nie można zagrać tej karty!Gracz Jusst zagrał [A_♣].
+Gracz Jusst pasuje.
+
+KOLEJ GRACZA Patrr:
+Figura na stole: .............. A
+Kolor na stole: ............... ♥
+Gracz Patrr zagrał [5_♥].
+KONIEC TURY!
+
+W grze bierze udział 2 graczy.
+Gracz 1. Jusst: 4 kart.
+Gracz 2. Patrr: 4 kart.
+
+Figura na stole: .............. 5
+Kolor na stole: ............... ♥
+
+KOLEJ GRACZA Jusst:
+Figura na stole: .............. 5
+Kolor na stole: ............... ♥
+Gracz Jusst zagrał [A_♥].
+
+KOLEJ GRACZA Patrr:
+Figura na stole: .............. A
+Kolor na stole: ............... ♠
+Gracz Patrr pasuje.
+Gracz Patrr ciągnie kartę.
+KONIEC TURY!
+
+W grze bierze udział 2 graczy.
+Gracz 1. Jusst: 3 kart.
+Gracz 2. Patrr: 5 kart.
+
+Figura na stole: .............. A
+Kolor na stole: ............... ♠
+
+KOLEJ GRACZA Jusst:
+Figura na stole: .............. A
+Kolor na stole: ............... ♠
+Gracz Jusst pasuje.
+Gracz Jusst ciągnie kartę.
+
+KOLEJ GRACZA Patrr:
+Figura na stole: .............. A
+Kolor na stole: ............... ♠
+Gracz Patrr zagrał [7_♠].
+KONIEC TURY!
+
+W grze bierze udział 2 graczy.
+Gracz 1. Jusst: 4 kart.
+Gracz 2. Patrr: 4 kart.
+
+Figura na stole: .............. 7
+Kolor na stole: ............... ♠
+
+KOLEJ GRACZA Jusst:
+Figura na stole: .............. 7
+Kolor na stole: ............... ♠
+Gracz Jusst zagrał [6_♠].
+
+KOLEJ GRACZA Patrr:
+Figura na stole: .............. 6
+Kolor na stole: ............... ♠
+Gracz Patrr zagrał [6_♥].
+KONIEC TURY!
+
+W grze bierze udział 2 graczy.
+Gracz 1. Jusst: 3 kart.
+Gracz 2. Patrr: 3 kart.
+
+Figura na stole: .............. 6
+Kolor na stole: ............... ♥
+
+KOLEJ GRACZA Jusst:
+Figura na stole: .............. 6
+Kolor na stole: ............... ♥
+Gracz Jusst zagrał [3_♥].
+
+KOLEJ GRACZA Patrr:
+Figura na stole: .............. 3
+Kolor na stole: ............... ♥
+Pula kart do wzięcia: ......... 3
+Gracz Patrr pasuje.
+Gracz Patrr ciągnie 3 kart(y).
+KONIEC TURY!
+
+W grze bierze udział 2 graczy.
+Gracz 1. Jusst: 2 kart.
+Gracz 2. Patrr: 6 kart.
+
+Figura na stole: .............. 3
+Kolor na stole: ............... ♥
+
+KOLEJ GRACZA Jusst:
+Figura na stole: .............. 3
+Kolor na stole: ............... ♥
+Nie można zagrać tej karty!Nie można zagrać tej karty!Gracz Jusst pasuje.
+Gracz Jusst ciągnie kartę.
+
+KOLEJ GRACZA Patrr:
+Figura na stole: .............. 3
+Kolor na stole: ............... ♥
+Gracz Patrr zagrał [D_♥].
+Gracz Patrr zagrał [D_♣].
+KONIEC TURY!
+
+W grze bierze udział 2 graczy.
+Gracz 1. Jusst: 3 kart.
+Gracz 2. Patrr: 4 kart.
+
+Figura na stole: .............. D
+Kolor na stole: ............... ♣
+
+KOLEJ GRACZA Jusst:
+Figura na stole: .............. D
+Kolor na stole: ............... ♣
+Nie można zagrać tej karty!Nie można zagrać tej karty!Nie można zagrać tej karty!Gracz Jusst pasuje.
+Gracz Jusst ciągnie kartę.
+
+KOLEJ GRACZA Patrr:
+Figura na stole: .............. D
+Kolor na stole: ............... ♣
+Gracz Patrr zagrał [K_♣].
+Gracz Patrr zagrał [K_♦].
+KONIEC TURY!
+
+W grze bierze udział 2 graczy.
+Gracz 1. Jusst: 4 kart.
+Gracz 2. Patrr: 2 kart.
+
+Figura na stole: .............. K
+Kolor na stole: ............... ♦
+
+KOLEJ GRACZA Jusst:
+Figura na stole: .............. K
+Kolor na stole: ............... ♦
+Gracz Jusst zagrał [3_♦].
+
+KOLEJ GRACZA Patrr:
+Figura na stole: .............. 3
+Kolor na stole: ............... ♦
+Pula kart do wzięcia: ......... 3
+Gracz Patrr zagrał [3_♠].
+KONIEC TURY!
+
+W grze bierze udział 2 graczy.
+Gracz 1. Jusst: 3 kart.
+Gracz 2. Patrr: 1 kart.
+
+Figura na stole: .............. 3
+Kolor na stole: ............... ♠
+Pula kart do wzięcia: ......... 6
+
+KOLEJ GRACZA Jusst:
+Figura na stole: .............. 3
+Kolor na stole: ............... ♠
+Pula kart do wzięcia: ......... 6
+Nie można zagrać tej karty!Nie można zagrać tej karty!Gracz Jusst pasuje.
+Gracz Jusst ciągnie 6 kart(y).
+
+KOLEJ GRACZA Patrr:
+Figura na stole: .............. 3
+Kolor na stole: ............... ♠
+Gracz Patrr pasuje.
+Gracz Patrr ciągnie kartę.
+KONIEC TURY!
+
+W grze bierze udział 2 graczy.
+Gracz 1. Jusst: 9 kart.
+Gracz 2. Patrr: 2 kart.
+
+Figura na stole: .............. 3
+Kolor na stole: ............... ♠
+
+KOLEJ GRACZA Jusst:
+Figura na stole: .............. 3
+Kolor na stole: ............... ♠
+Gracz Jusst zagrał [2_♠].
+
+KOLEJ GRACZA Patrr:
+Figura na stole: .............. 2
+Kolor na stole: ............... ♠
+Pula kart do wzięcia: ......... 2
+Gracz Patrr zagrał [2_♣].
+KONIEC TURY!
+
+W grze bierze udział 2 graczy.
+Gracz 1. Jusst: 8 kart.
+Gracz 2. Patrr: 1 kart.
+
+Figura na stole: .............. 2
+Kolor na stole: ............... ♣
+Pula kart do wzięcia: ......... 4
+
+KOLEJ GRACZA Jusst:
+Figura na stole: .............. 2
+Kolor na stole: ............... ♣
+Pula kart do wzięcia: ......... 4
+Nie można zagrać tej karty!Gracz Jusst pasuje.
+Gracz Jusst ciągnie 4 kart(y).
+
+KOLEJ GRACZA Patrr:
+Figura na stole: .............. 2
+Kolor na stole: ............... ♣
+Gracz Patrr pasuje.
+Gracz Patrr ciągnie kartę.
+KONIEC TURY!
+
+W grze bierze udział 2 graczy.
+Gracz 1. Jusst: 12 kart.
+Gracz 2. Patrr: 2 kart.
+
+Figura na stole: .............. 2
+Kolor na stole: ............... ♣
+
+KOLEJ GRACZA Jusst:
+Figura na stole: .............. 2
+Kolor na stole: ............... ♣
+Gracz Jusst zagrał [7_♣].
+
+KOLEJ GRACZA Patrr:
+Figura na stole: .............. 7
+Kolor na stole: ............... ♣
+Gracz Patrr pasuje.
+Gracz Patrr ciągnie kartę.
+KONIEC TURY!
+
+W grze bierze udział 2 graczy.
+Gracz 1. Jusst: 11 kart.
+Gracz 2. Patrr: 3 kart.
+
+Figura na stole: .............. 7
+Kolor na stole: ............... ♣
+
+KOLEJ GRACZA Jusst:
+Figura na stole: .............. 7
+Kolor na stole: ............... ♣
+Gracz Jusst zagrał [9_♣].
+Gracz Jusst zagrał [9_♠].
+Nie można zagrać tej karty!Gracz Jusst zagrał [9_♥].
+Nie można zagrać tej karty!Gracz Jusst zagrał [9_♦].
+
+KOLEJ GRACZA Patrr:
+Figura na stole: .............. 9
+Kolor na stole: ............... ♦
+Gracz Patrr zagrał [2_♦].
+KONIEC TURY!
+
+W grze bierze udział 2 graczy.
+Gracz 1. Jusst: 7 kart.
+Gracz 2. Patrr: 2 kart.
+
+Figura na stole: .............. 2
+Kolor na stole: ............... ♦
+Pula kart do wzięcia: ......... 2
+
+KOLEJ GRACZA Jusst:
+Figura na stole: .............. 2
+Kolor na stole: ............... ♦
+Pula kart do wzięcia: ......... 2
+Gracz Jusst pasuje.
+Gracz Jusst ciągnie 2 kart(y).
+
+KOLEJ GRACZA Patrr:
+Figura na stole: .............. 2
+Kolor na stole: ............... ♦
+Gracz Patrr pasuje.
+Gracz Patrr ciągnie kartę.
+KONIEC TURY!
+
+W grze bierze udział 2 graczy.
+Gracz 1. Jusst: 9 kart.
+Gracz 2. Patrr: 3 kart.
+
+Figura na stole: .............. 2
+Kolor na stole: ............... ♦
+
+KOLEJ GRACZA Jusst:
+Figura na stole: .............. 2
+Kolor na stole: ............... ♦
+Gracz Jusst zagrał [D_♦].
+
+KOLEJ GRACZA Patrr:
+Figura na stole: .............. D
+Kolor na stole: ............... ♦
+Gracz Patrr zagrał [5_♦].
+KONIEC TURY!
+
+W grze bierze udział 2 graczy.
+Gracz 1. Jusst: 8 kart.
+Gracz 2. Patrr: 2 kart.
+
+Figura na stole: .............. 5
+Kolor na stole: ............... ♦
+
+KOLEJ GRACZA Jusst:
+Figura na stole: .............. 5
+Kolor na stole: ............... ♦
+Gracz Jusst zagrał [6_♦].
+
+KOLEJ GRACZA Patrr:
+Figura na stole: .............. 6
+Kolor na stole: ............... ♦
+Gracz Patrr pasuje.
+Gracz Patrr ciągnie kartę.
+KONIEC TURY!
+
+W grze bierze udział 2 graczy.
+Gracz 1. Jusst: 7 kart.
+Gracz 2. Patrr: 3 kart.
+
+Figura na stole: .............. 6
+Kolor na stole: ............... ♦
+
+KOLEJ GRACZA Jusst:
+Figura na stole: .............. 6
+Kolor na stole: ............... ♦
+Gracz Jusst zagrał [A_♦].
+
+KOLEJ GRACZA Patrr:
+Figura na stole: .............. A
+Kolor na stole: ............... ♠
+Gracz Patrr zagrał [D_♠].
+KONIEC TURY!
+
+W grze bierze udział 2 graczy.
+Gracz 1. Jusst: 6 kart.
+Gracz 2. Patrr: 2 kart.
+
+Figura na stole: .............. D
+Kolor na stole: ............... ♠
+
+KOLEJ GRACZA Jusst:
+Figura na stole: .............. D
+Kolor na stole: ............... ♠
+NOWE ŻĄDANIE: 5Gracz Jusst zagrał [W_♠].
+NOWE ŻĄDANIE: 5Gracz Jusst zagrał [W_♥].
+
+KOLEJ GRACZA Patrr:
+Figura na stole: .............. W
+Kolor na stole: ............... ♥
+Żądanie: ...................... 5
+Gracz Patrr pasuje.
+Gracz Patrr ciągnie kartę.
+KONIEC TURY!
+
+W grze bierze udział 2 graczy.
+Gracz 1. Jusst: 4 kart.
+Gracz 2. Patrr: 3 kart.
+
+Figura na stole: .............. W
+Kolor na stole: ............... ♥
+Żądanie: ...................... 5
+
+KOLEJ GRACZA Jusst:
+Figura na stole: .............. W
+Kolor na stole: ............... ♥
+Żądanie: ...................... 5
+Gracz Jusst zagrał [5_♠].
+
+KOLEJ GRACZA Patrr:
+Figura na stole: .............. 5
+Kolor na stole: ............... ♠
+Gracz Patrr pasuje.
+Gracz Patrr ciągnie kartę.
+KONIEC TURY!
+
+W grze bierze udział 2 graczy.
+Gracz 1. Jusst: 3 kart.
+Gracz 2. Patrr: 4 kart.
+
+Figura na stole: .............. 5
+Kolor na stole: ............... ♠
+
+KOLEJ GRACZA Jusst:
+Figura na stole: .............. 5
+Kolor na stole: ............... ♠
+Gracz Jusst zagrał [4_♠].
+Gracz Jusst zagrał [4_♥].
+
+KOLEJ GRACZA Patrr:
+Figura na stole: .............. 4
+Kolor na stole: ............... ♥
+Pula kolejek do odczekania: ... 2
+Gracz Patrr pasuje.
+Gracz Patrr stoi 2 kolejek.
+Gracz Patrr nic nie zagrał i czeka pierwszą kolejkę.
+Pozostała liczba kolejek: 1.
+KONIEC TURY!
+
+W grze bierze udział 2 graczy.
+Gracz 1. Jusst: 1 kart.
+Gracz 2. Patrr: 4 kart.
+
+Figura na stole: .............. 4
+Kolor na stole: ............... ♥
+
+KOLEJ GRACZA Jusst:
+Figura na stole: .............. 4
+Kolor na stole: ............... ♥
+Gracz Jusst pasuje.
+Gracz Jusst ciągnie kartę.
+
+KOLEJ GRACZA Patrr:
+Figura na stole: .............. 4
+Kolor na stole: ............... ♥
+Gracz Patrr czeka kolejkę.
+Pozostała liczba kolejek: 0.
+KONIEC TURY!
+
+W grze bierze udział 2 graczy.
+Gracz 1. Jusst: 2 kart.
+Gracz 2. Patrr: 4 kart.
+
+Figura na stole: .............. 4
+Kolor na stole: ............... ♥
+
+KOLEJ GRACZA Jusst:
+Figura na stole: .............. 4
+Kolor na stole: ............... ♥
+Gracz Jusst zagrał [K_♥].
+
+KOLEJ GRACZA Patrr:
+Figura na stole: .............. K
+Kolor na stole: ............... ♥
+Pula kart do wzięcia: ......... 5
+Gracz Patrr pasuje.
+Gracz Patrr ciągnie 5 kart(y).
+KONIEC TURY!
+
+W grze bierze udział 2 graczy.
+Gracz 1. Jusst: 1 kart.
+Gracz 2. Patrr: 9 kart.
+
+Figura na stole: .............. K
+Kolor na stole: ............... ♥
+
+KOLEJ GRACZA Jusst:
+Figura na stole: .............. K
+Kolor na stole: ............... ♥
+Gracz Jusst pasuje.
+Gracz Jusst ciągnie kartę.
+
+KOLEJ GRACZA Patrr:
+Figura na stole: .............. K
+Kolor na stole: ............... ♥
+Gracz Patrr zagrał [K_♠].
+KONIEC TURY!
+
+W grze bierze udział 2 graczy.
+Gracz 1. Jusst: 2 kart.
+Gracz 2. Patrr: 8 kart.
+
+Figura na stole: .............. K
+Kolor na stole: ............... ♠
+Pula kart do wzięcia: ......... 5
+
+KOLEJ GRACZA Jusst:
+Figura na stole: .............. K
+Kolor na stole: ............... ♠
+Pula kart do wzięcia: ......... 5
+Gracz Jusst pasuje.
+Gracz Jusst ciągnie 5 kart(y).
+
+KOLEJ GRACZA Patrr:
+Figura na stole: .............. K
+Kolor na stole: ............... ♠
+Nie można zagrać tej karty!Nie można zagrać tej karty!Nie można zagrać tej karty!Nie można zagrać tej karty!Gracz Patrr zagrał [8_♠].
+Gracz Patrr zagrał [8_♥].
+Gracz Patrr zagrał [8_♦].
+KONIEC TURY!
+
+W grze bierze udział 2 graczy.
+Gracz 1. Jusst: 7 kart.
+Gracz 2. Patrr: 5 kart.
+
+Figura na stole: .............. 8
+Kolor na stole: ............... ♦
+
+KOLEJ GRACZA Jusst:
+Figura na stole: .............. 8
+Kolor na stole: ............... ♦
+Gracz Jusst zagrał [7_♦].
+
+KOLEJ GRACZA Patrr:
+Figura na stole: .............. 7
+Kolor na stole: ............... ♦
+Gracz Patrr zagrał [7_♥].
+KONIEC TURY!
+
+W grze bierze udział 2 graczy.
+Gracz 1. Jusst: 6 kart.
+Gracz 2. Patrr: 4 kart.
+
+Figura na stole: .............. 7
+Kolor na stole: ............... ♥
+
+KOLEJ GRACZA Jusst:
+Figura na stole: .............. 7
+Kolor na stole: ............... ♥
+Gracz Jusst pasuje.
+Gracz Jusst ciągnie kartę.
+
+KOLEJ GRACZA Patrr:
+Figura na stole: .............. 7
+Kolor na stole: ............... ♥
+Gracz Patrr zagrał [10_♥].
+Gracz Patrr zagrał [10_♣].
+KONIEC TURY!
+
+W grze bierze udział 2 graczy.
+Gracz 1. Jusst: 7 kart.
+Gracz 2. Patrr: 2 kart.
+
+Figura na stole: .............. 10
+Kolor na stole: ............... ♣
+
+KOLEJ GRACZA Jusst:
+Figura na stole: .............. 10
+Kolor na stole: ............... ♣
+NOWE ŻĄDANIE: 10Gracz Jusst zagrał [W_♣].
+NOWE ŻĄDANIE: 10Gracz Jusst zagrał [W_♦].
+
+KOLEJ GRACZA Patrr:
+Figura na stole: .............. W
+Kolor na stole: ............... ♦
+Żądanie: ...................... 10
+Gracz Patrr pasuje.
+Gracz Patrr ciągnie kartę.
+KONIEC TURY!
+
+W grze bierze udział 2 graczy.
+Gracz 1. Jusst: 5 kart.
+Gracz 2. Patrr: 3 kart.
+
+Figura na stole: .............. W
+Kolor na stole: ............... ♦
+Żądanie: ...................... 10
+
+KOLEJ GRACZA Jusst:
+Figura na stole: .............. W
+Kolor na stole: ............... ♦
+Żądanie: ...................... 10
+Gracz Jusst zagrał [10_♦].
+Gracz Jusst zagrał [10_♠].
+
+KOLEJ GRACZA Patrr:
+Figura na stole: .............. 10
+Kolor na stole: ............... ♠
+Gracz Patrr pasuje.
+Gracz Patrr ciągnie kartę.
+KONIEC TURY!
+
+W grze bierze udział 2 graczy.
+Gracz 1. Jusst: 3 kart.
+Gracz 2. Patrr: 4 kart.
+
+Figura na stole: .............. 10
+Kolor na stole: ............... ♠
+
+KOLEJ GRACZA Jusst:
+Figura na stole: .............. 10
+Kolor na stole: ............... ♠
+Gracz Jusst zagrał [A_♠].
+
+KOLEJ GRACZA Patrr:
+Figura na stole: .............. A
+Kolor na stole: ............... ♣
+Gracz Patrr zagrał [6_♣].
+KONIEC TURY!
+
+W grze bierze udział 2 graczy.
+Gracz 1. Jusst: 2 kart.
+Gracz 2. Patrr: 3 kart.
+
+Figura na stole: .............. 6
+Kolor na stole: ............... ♣
+
+KOLEJ GRACZA Jusst:
+Figura na stole: .............. 6
+Kolor na stole: ............... ♣
+Gracz Jusst zagrał [3_♣].
+
+KOLEJ GRACZA Patrr:
+Figura na stole: .............. 3
+Kolor na stole: ............... ♣
+Pula kart do wzięcia: ......... 3
+Gracz Patrr pasuje.
+Gracz Patrr ciągnie 3 kart(y).
+KONIEC TURY!
+
+W grze bierze udział 2 graczy.
+Gracz 1. Jusst: 1 kart.
+Gracz 2. Patrr: 6 kart.
+
+Figura na stole: .............. 3
+Kolor na stole: ............... ♣
+
+KOLEJ GRACZA Jusst:
+Figura na stole: .............. 3
+Kolor na stole: ............... ♣
+Gracz Jusst zagrał [8_♣].
+
+KOLEJ GRACZA Patrr:
+Figura na stole: .............. 8
+Kolor na stole: ............... ♣
+Gracz Patrr zagrał [4_♣].
+Gracz Patrr zagrał [4_♦].
+KONIEC TURY!
+
+W grze bierze udział 2 graczy.
+Gracz 1. Jusst: 0 kart.
+Gracz 2. Patrr: 4 kart.
+
+Figura na stole: .............. 4
+Kolor na stole: ............... ♦
+Pula kolejek do odczekania: ... 2
+!!! KONIEC GRY !!!
+Zwycięzca/y:
+1. Jusst.

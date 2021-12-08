@@ -1,0 +1,269 @@
+
+W grze bierze udział 2 graczy.
+Gracz 1. qwe: 5 kart.
+Gracz 2. asd: 5 kart.
+
+Figura na stole: .............. D
+Kolor na stole: ............... ♣
+
+KOLEJ GRACZA qwe:
+Figura na stole: .............. D
+Kolor na stole: ............... ♣
+Gracz qwe zagrał [6_♣].
+
+KOLEJ GRACZA asd:
+Figura na stole: .............. 6
+Kolor na stole: ............... ♣
+Gracz asd pasuje.
+Gracz asd ciągnie kartę.
+KONIEC TURY!
+
+W grze bierze udział 2 graczy.
+Gracz 1. qwe: 4 kart.
+Gracz 2. asd: 6 kart.
+
+Figura na stole: .............. 6
+Kolor na stole: ............... ♣
+
+KOLEJ GRACZA qwe:
+Figura na stole: .............. 6
+Kolor na stole: ............... ♣
+Gracz qwe zagrał [2_♣].
+
+KOLEJ GRACZA asd:
+Figura na stole: .............. 2
+Kolor na stole: ............... ♣
+Pula kart do wzięcia: ......... 2
+Gracz asd pasuje.
+Gracz asd ciągnie 2 kart(y).
+KONIEC TURY!
+
+W grze bierze udział 2 graczy.
+Gracz 1. qwe: 3 kart.
+Gracz 2. asd: 8 kart.
+
+Figura na stole: .............. 2
+Kolor na stole: ............... ♣
+
+KOLEJ GRACZA qwe:
+Figura na stole: .............. 2
+Kolor na stole: ............... ♣
+Gracz qwe pasuje.
+Gracz qwe ciągnie kartę.
+
+KOLEJ GRACZA asd:
+Figura na stole: .............. 2
+Kolor na stole: ............... ♣
+Gracz asd pasuje.
+Gracz asd ciągnie kartę.
+KONIEC TURY!
+
+W grze bierze udział 2 graczy.
+Gracz 1. qwe: 4 kart.
+Gracz 2. asd: 9 kart.
+
+Figura na stole: .............. 2
+Kolor na stole: ............... ♣
+
+KOLEJ GRACZA qwe:
+Figura na stole: .............. 2
+Kolor na stole: ............... ♣
+Gracz qwe pasuje.
+Gracz qwe ciągnie kartę.
+
+KOLEJ GRACZA asd:
+Figura na stole: .............. 2
+Kolor na stole: ............... ♣
+Gracz asd zagrał [7_♣].
+KONIEC TURY!
+
+W grze bierze udział 2 graczy.
+Gracz 1. qwe: 5 kart.
+Gracz 2. asd: 8 kart.
+
+Figura na stole: .............. 7
+Kolor na stole: ............... ♣
+
+KOLEJ GRACZA qwe:
+Figura na stole: .............. 7
+Kolor na stole: ............... ♣
+Gracz qwe pasuje.
+Gracz qwe ciągnie kartę.
+
+KOLEJ GRACZA asd:
+Figura na stole: .............. 7
+Kolor na stole: ............... ♣
+Gracz asd pasuje.
+Gracz asd ciągnie kartę.
+KONIEC TURY!
+
+W grze bierze udział 2 graczy.
+Gracz 1. qwe: 6 kart.
+Gracz 2. asd: 9 kart.
+
+Figura na stole: .............. 7
+Kolor na stole: ............... ♣
+
+KOLEJ GRACZA qwe:
+Figura na stole: .............. 7
+Kolor na stole: ............... ♣
+Gracz qwe pasuje.
+Gracz qwe ciągnie kartę.
+
+KOLEJ GRACZA asd:
+Figura na stole: .............. 7
+Kolor na stole: ............... ♣
+Gracz asd pasuje.
+Gracz asd ciągnie kartę.
+KONIEC TURY!
+
+W grze bierze udział 2 graczy.
+Gracz 1. qwe: 7 kart.
+Gracz 2. asd: 10 kart.
+
+Figura na stole: .............. 7
+Kolor na stole: ............... ♣
+
+KOLEJ GRACZA qwe:
+Figura na stole: .............. 7
+Kolor na stole: ............... ♣
+Gracz qwe zagrał [K_♣].
+
+KOLEJ GRACZA asd:
+Figura na stole: .............. K
+Kolor na stole: ............... ♣
+Gracz asd pasuje.
+Gracz asd ciągnie kartę.
+KONIEC TURY!
+
+W grze bierze udział 2 graczy.
+Gracz 1. qwe: 6 kart.
+Gracz 2. asd: 11 kart.
+
+Figura na stole: .............. K
+Kolor na stole: ............... ♣
+
+KOLEJ GRACZA qwe:
+Figura na stole: .............. K
+Kolor na stole: ............... ♣
+Gracz qwe pasuje.
+Gracz qwe ciągnie kartę.
+
+KOLEJ GRACZA asd:
+Figura na stole: .............. K
+Kolor na stole: ............... ♣
+Gracz asd zagrał [A_♣].
+Gracz asd pasuje.
+KONIEC TURY!
+
+W grze bierze udział 2 graczy.
+Gracz 1. qwe: 7 kart.
+Gracz 2. asd: 10 kart.
+
+Figura na stole: .............. A
+Kolor na stole: ............... ♠
+
+KOLEJ GRACZA qwe:
+Figura na stole: .............. A
+Kolor na stole: ............... ♠
+Gracz qwe zagrał [5_♠].
+Gracz qwe zagrał [5_♦].
+Gracz qwe zagrał [5_♥].
+
+KOLEJ GRACZA asd:
+Figura na stole: .............. 5
+Kolor na stole: ............... ♥
+Gracz asd pasuje.
+Gracz asd ciągnie kartę.
+KONIEC TURY!
+
+W grze bierze udział 2 graczy.
+Gracz 1. qwe: 4 kart.
+Gracz 2. asd: 11 kart.
+
+Figura na stole: .............. 5
+Kolor na stole: ............... ♥
+
+KOLEJ GRACZA qwe:
+Figura na stole: .............. 5
+Kolor na stole: ............... ♥
+Gracz qwe zagrał [8_♥].
+
+KOLEJ GRACZA asd:
+Figura na stole: .............. 8
+Kolor na stole: ............... ♥
+Gracz asd pasuje.
+Gracz asd ciągnie kartę.
+KONIEC TURY!
+
+W grze bierze udział 2 graczy.
+Gracz 1. qwe: 3 kart.
+Gracz 2. asd: 12 kart.
+
+Figura na stole: .............. 8
+Kolor na stole: ............... ♥
+
+KOLEJ GRACZA qwe:
+Figura na stole: .............. 8
+Kolor na stole: ............... ♥
+NOWE ŻĄDANIE: 10Gracz qwe zagrał [W_♥].
+
+KOLEJ GRACZA asd:
+Figura na stole: .............. W
+Kolor na stole: ............... ♥
+Żądanie: ...................... 10
+Gracz asd pasuje.
+Gracz asd ciągnie kartę.
+KONIEC TURY!
+
+W grze bierze udział 2 graczy.
+Gracz 1. qwe: 2 kart.
+Gracz 2. asd: 13 kart.
+
+Figura na stole: .............. W
+Kolor na stole: ............... ♥
+Żądanie: ...................... 10
+
+KOLEJ GRACZA qwe:
+Figura na stole: .............. W
+Kolor na stole: ............... ♥
+Żądanie: ...................... 10
+Gracz qwe zagrał [10_♦].
+
+MAKAO!!! Gracz qwe ma tylko jedną kartę!
+KOLEJ GRACZA asd:
+Figura na stole: .............. 10
+Kolor na stole: ............... ♦
+Gracz asd pasuje.
+Gracz asd ciągnie kartę.
+KONIEC TURY!
+
+W grze bierze udział 2 graczy.
+Gracz 1. qwe: 1 kart.
+Gracz 2. asd: 14 kart.
+
+Figura na stole: .............. 10
+Kolor na stole: ............... ♦
+
+KOLEJ GRACZA qwe:
+Figura na stole: .............. 10
+Kolor na stole: ............... ♦
+Gracz qwe zagrał [7_♦].
+
+KOLEJ GRACZA asd:
+Figura na stole: .............. 7
+Kolor na stole: ............... ♦
+Gracz asd pasuje.
+Gracz asd ciągnie kartę.
+KONIEC TURY!
+
+W grze bierze udział 2 graczy.
+Gracz 1. qwe: 0 kart.
+Gracz 2. asd: 15 kart.
+
+Figura na stole: .............. 7
+Kolor na stole: ............... ♦
+
+!!! PO MAKALE !!! KONIEC GRY !!!
+Zwycięzca/y:
+1. qwe.

@@ -1,0 +1,192 @@
+
+W grze bierze udział 2 graczy.
+Gracz 1. Just: 5 kart.
+Gracz 2. Patr: 5 kart.
+
+Figura na stole: .............. 5
+Kolor na stole: ............... ♠
+
+KOLEJ GRACZA Just:
+Figura na stole: .............. 5
+Kolor na stole: ............... ♠
+Gracz Just zagrał [8_♠].
+
+KOLEJ GRACZA Patr:
+Figura na stole: .............. 8
+Kolor na stole: ............... ♠
+Gracz Patr zagrał [2_♠].
+KONIEC TURY!
+
+W grze bierze udział 2 graczy.
+Gracz 1. Just: 4 kart.
+Gracz 2. Patr: 4 kart.
+
+Figura na stole: .............. 2
+Kolor na stole: ............... ♠
+Pula kart do wzięcia: ......... 2
+
+KOLEJ GRACZA Just:
+Figura na stole: .............. 2
+Kolor na stole: ............... ♠
+Pula kart do wzięcia: ......... 2
+Nie można zagrać tej karty!Gracz Just pasuje.
+Gracz Just ciągnie 2 kart(y).
+
+KOLEJ GRACZA Patr:
+Figura na stole: .............. 2
+Kolor na stole: ............... ♠
+Gracz Patr pasuje.
+Gracz Patr ciągnie kartę.
+KONIEC TURY!
+
+W grze bierze udział 2 graczy.
+Gracz 1. Just: 6 kart.
+Gracz 2. Patr: 5 kart.
+
+Figura na stole: .............. 2
+Kolor na stole: ............... ♠
+
+KOLEJ GRACZA Just:
+Figura na stole: .............. 2
+Kolor na stole: ............... ♠
+Gracz Just zagrał [10_♠].
+
+KOLEJ GRACZA Patr:
+Figura na stole: .............. 10
+Kolor na stole: ............... ♠
+Gracz Patr pasuje.
+Gracz Patr ciągnie kartę.
+KONIEC TURY!
+
+W grze bierze udział 2 graczy.
+Gracz 1. Just: 5 kart.
+Gracz 2. Patr: 6 kart.
+
+Figura na stole: .............. 10
+Kolor na stole: ............... ♠
+
+KOLEJ GRACZA Just:
+Figura na stole: .............. 10
+Kolor na stole: ............... ♠
+Gracz Just zagrał [D_♠].
+
+KOLEJ GRACZA Patr:
+Figura na stole: .............. D
+Kolor na stole: ............... ♠
+Gracz Patr zagrał [3_♠].
+Gracz Patr zagrał [3_♣].
+KONIEC TURY!
+
+W grze bierze udział 2 graczy.
+Gracz 1. Just: 4 kart.
+Gracz 2. Patr: 4 kart.
+
+Figura na stole: .............. 3
+Kolor na stole: ............... ♣
+Pula kart do wzięcia: ......... 6
+
+KOLEJ GRACZA Just:
+Figura na stole: .............. 3
+Kolor na stole: ............... ♣
+Pula kart do wzięcia: ......... 6
+Nie można zagrać tej karty!Gracz Just pasuje.
+Gracz Just ciągnie 6 kart(y).
+
+KOLEJ GRACZA Patr:
+Figura na stole: .............. 3
+Kolor na stole: ............... ♣
+Gracz Patr pasuje.
+Gracz Patr ciągnie kartę.
+KONIEC TURY!
+
+W grze bierze udział 2 graczy.
+Gracz 1. Just: 10 kart.
+Gracz 2. Patr: 5 kart.
+
+Figura na stole: .............. 3
+Kolor na stole: ............... ♣
+
+KOLEJ GRACZA Just:
+Figura na stole: .............. 3
+Kolor na stole: ............... ♣
+Gracz Just zagrał [8_♣].
+Gracz Just zagrał [8_♦].
+
+KOLEJ GRACZA Patr:
+Figura na stole: .............. 8
+Kolor na stole: ............... ♦
+Gracz Patr zagrał [5_♦].
+KONIEC TURY!
+
+W grze bierze udział 2 graczy.
+Gracz 1. Just: 8 kart.
+Gracz 2. Patr: 4 kart.
+
+Figura na stole: .............. 5
+Kolor na stole: ............... ♦
+
+KOLEJ GRACZA Just:
+Figura na stole: .............. 5
+Kolor na stole: ............... ♦
+Gracz Just zagrał [3_♦].
+Gracz Just zagrał [3_♥].
+
+KOLEJ GRACZA Patr:
+Figura na stole: .............. 3
+Kolor na stole: ............... ♥
+Pula kart do wzięcia: ......... 6
+Gracz Patr pasuje.
+Gracz Patr ciągnie 6 kart(y).
+KONIEC TURY!
+
+W grze bierze udział 2 graczy.
+Gracz 1. Just: 6 kart.
+Gracz 2. Patr: 10 kart.
+
+Figura na stole: .............. 3
+Kolor na stole: ............... ♥
+
+KOLEJ GRACZA Just:
+Figura na stole: .............. 3
+Kolor na stole: ............... ♥
+Gracz Just zagrał [K_♥].
+
+KOLEJ GRACZA Patr:
+Figura na stole: .............. K
+Kolor na stole: ............... ♥
+Pula kart do wzięcia: ......... 5
+Gracz Patr zagrał [K_♠].
+Gracz Patr pasuje.
+KONIEC TURY!
+
+W grze bierze udział 2 graczy.
+Gracz 1. Just: 5 kart.
+Gracz 2. Patr: 9 kart.
+
+Figura na stole: .............. K
+Kolor na stole: ............... ♠
+Pula kart do wzięcia: ......... 10
+
+KOLEJ GRACZA Just:
+Figura na stole: .............. K
+Kolor na stole: ............... ♠
+Pula kart do wzięcia: ......... 10
+Nie można zagrać tej karty!Gracz Just pasuje.
+Gracz Just ciągnie 10 kart(y).
+
+KOLEJ GRACZA Patr:
+Figura na stole: .............. K
+Kolor na stole: ............... ♠
+Gracz Patr zagrał [K_♣].
+KONIEC TURY!
+
+W grze bierze udział 2 graczy.
+Gracz 1. Just: 15 kart.
+Gracz 2. Patr: 8 kart.
+
+Figura na stole: .............. K
+Kolor na stole: ............... ♣
+
+KOLEJ GRACZA Just:
+Figura na stole: .............. K
+Kolor na stole: ............... ♣
